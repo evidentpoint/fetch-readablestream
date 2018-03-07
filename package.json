@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "main": "lib/entry.js",
   "jsnext:main": "src/index.js",
+  "typings": "src/index.d.ts",
   "repository": "https://github.com/jonnyreeves/fetch-readablestream",
   "license": "MIT",
   "keywords": [
